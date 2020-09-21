@@ -1,1 +1,1 @@
-# taller_00
+# taller_00 COMPUTACION PARALELA
